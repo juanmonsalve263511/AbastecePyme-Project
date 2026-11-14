@@ -1,6 +1,6 @@
 # Guía de uso de AbastecePyme
 
-**Actualizada el 7 de noviembre de 2026.** Esta guía explica la versión actual de la aplicación y las mejoras incorporadas el 6 de noviembre. Los pasos se contrastaron con los nombres y controles de la interfaz. Esta actualización documental no modificó el catálogo; las fechas y el alcance de las pruebas se detallan en la sección 15.
+Esta guía explica la versión actual de la aplicación y las mejoras incorporadas el 6 de noviembre. Los pasos se contrastaron con los nombres y controles de la interfaz. Esta actualización documental no modificó el catálogo; las fechas y el alcance de las pruebas se detallan en la sección 15.
 
 AbastecePyme reúne proveedores, insumos, productos y sus conexiones. Permite consultar precios, estimar materiales, explorar posibles impactos y ordenar la preparación según las dependencias registradas. Mantén los datos al día: los resultados cambian cuando se editan elementos o relaciones.
 

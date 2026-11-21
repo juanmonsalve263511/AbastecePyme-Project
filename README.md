@@ -2,21 +2,7 @@
 
 Aplicación web local para organizar proveedores, insumos, productos y dependencias de producción. Combina **React**, **FastAPI/Python** y **MariaDB**, con un grafo interactivo, precios y cantidades, análisis de impacto y orden de preparación.
 
-**Documentación actualizada: 16 de noviembre de 2026.** Incluye distribución de grafos guardada por cuenta, animación continua de la portada con un aumento adicional del 20 % de velocidad, movimiento libre y selección múltiple de nodos, filtros y orden del catálogo, resumen de datos por completar, controles de lectura del grafo y respuesta optimizada del tablero, además de la comparación de costos, resaltado de opciones y funciones anteriores. La evidencia se registra por fecha; el video del 14 de noviembre corresponde a aquella versión.
-
-- [Guía de uso completa, paso a paso](docs/GUIA_ACTUALIZACION_2026.md)
-- [Distribución por usuario y animación continua](docs/USER_GRAPH_LAYOUTS_2026-11-16.md)
-- [Movimiento libre y selección múltiple del grafo](docs/FREE_GRAPH_LAYOUT_2026-11-16.md)
-- [Legibilidad, filtros y rendimiento: cambios y mediciones](docs/READABILITY_PERFORMANCE_2026-11-16.md)
-- [Resaltar la opción económica o costosa](docs/COST_SELECTION_2026-11-16.md)
-- [Investigación 2026 y alcance aprobado](docs/RECOMMENDATIONS_2026-11-16.md)
-- [Grafos, costos mínimo/máximo y precio de venta: 16 de noviembre](docs/GRAPH_COSTS_2026-11-16.md)
-- [Feature 4: tablero, cambio de requisitos y aceptación](docs/FEATURE4.md)
-- [Video del recorrido: 2:15, sin voz](docs/media/Feature4-Recorrido.webm) · [guion y evidencia](docs/FEATURE4_VIDEO.md) · [textos SRT](docs/media/Feature4-Recorrido.srt)
-- [Pitch visual de seis diapositivas](docs/media/Feature4-Pitch.html) · [texto de 60–90 segundos](docs/FEATURE4_PITCH.md)
-- [Feature 3: cumplimiento, ejemplos y pruebas de aceptación](docs/FEATURE3.md)
-- [Instalación, desarrollo y verificación](docs/SETUP.md)
-- [Informe de revisión técnica y visual](docs/REVIEW_2026-11-06.md)
+**Documentación actualizada: noviembre de 2026.** Incluye distribución de grafos guardada por cuenta, animación continua de la portada con un aumento adicional del 20 % de velocidad, movimiento libre y selección múltiple de nodos, filtros y orden del catálogo, resumen de datos por completar, controles de lectura del grafo y respuesta optimizada del tablero, además de la comparación de costos, resaltado de opciones y funciones anteriores. La evidencia se registra por fecha; el video del 14 de noviembre corresponde a aquella versión.
 
 ## Funcionalidades
 
